@@ -1,3 +1,5 @@
+//kernel.c
+
 void kmain(void){
     const char *str = "Kernel goes wrooom";
     char *vidptr =(char*)0xb8000; //Video memory begins here
