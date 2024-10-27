@@ -1,4 +1,4 @@
-//kernel.c
+//kernel.c test test
 
 void kmain(void){
     const char *str = "Kernel goes wrooom";
