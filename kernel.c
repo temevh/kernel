@@ -1,5 +1,5 @@
 //kernel.c test test
-//another test
+//testing some more
 
 void kmain(void){
     const char *str = "Kernel goes wrooom";
